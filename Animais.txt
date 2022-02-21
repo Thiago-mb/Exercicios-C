@@ -1,0 +1,6 @@
+macaco 5
+leao 8.5
+leopardo 5
+onca 3
+lobo 2.5
+aguia 1
